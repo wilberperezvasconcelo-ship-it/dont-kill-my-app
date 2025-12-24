@@ -1,4 +1,4 @@
----
+SOY GAY ME GA GAY SUPER GAY ULTRA GAY---
 manufacturer:
     - huawei
 
